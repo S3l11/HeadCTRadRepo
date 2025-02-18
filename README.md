@@ -24,8 +24,8 @@ For more information, please *contact the corresponding author*.
 
 # Requirements
 - **Python**: 3.10+  
-- **TensorFlow**: 2.15  
-- **Memory**: 24 GB RAM or higher  
+- **TensorFlow**: 2.15+  
+- **Memory**: 24 GB RAM / 40 GB VRAM or higher  
 - **GPU Compatibility**:  
   - NVIDIA A100 *(tested)*  
   - NVIDIA GEFORCE RTX 4080 *(tested)*  
